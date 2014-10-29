@@ -1,0 +1,48 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Blog] (Table)
+       [dbo].[CommonWord] (Table)
+       [dbo].[ExternalLogin] (Table)
+       [dbo].[Photo] (Table)
+       [dbo].[PhotoCategory] (Table)
+       [dbo].[PhotoData] (Table)
+       [dbo].[Post] (Table)
+       [dbo].[PostCategory] (Table)
+       [dbo].[PostWordCount] (Table)
+       [dbo].[Quote] (Table)
+       [dbo].[Role] (Table)
+       [dbo].[User] (Table)
+       [dbo].[UserRole] (Table)
+       [dbo].[WishList] (Table)
+       [dbo].[WishListCategory] (Table)
+       [dbo].[WishListCompany] (Table)
+       [dbo].[WishListSite] (Table)
+       [dbo].[FK_Blog_User] (Foreign Key)
+       [dbo].[FK_ExternalLogin_User] (Foreign Key)
+       [dbo].[FK_Photo_User] (Foreign Key)
+       [dbo].[FK_PhotoCategory_UserId] (Foreign Key)
+       [dbo].[FK_PhotoData_Photo] (Foreign Key)
+       [dbo].[FK_Post_Blog] (Foreign Key)
+       [dbo].[FK_Post_PostCategory] (Foreign Key)
+       [dbo].[FK_Post_User] (Foreign Key)
+       [dbo].[FK_PostCategory_User] (Foreign Key)
+       [dbo].[FK_PostWordCount_Post] (Foreign Key)
+       [dbo].[FK_Quote_User] (Foreign Key)
+       [dbo].[FK_UserRole_Role] (Foreign Key)
+       [dbo].[FK_UserRole_User] (Foreign Key)
+       [dbo].[FK_WishList_User] (Foreign Key)
+       [dbo].[FK_WishList_WishListCategory] (Foreign Key)
+       [dbo].[FK_WishList_WishListCompany] (Foreign Key)
+       [dbo].[FK_WishList_WishListSite] (Foreign Key)
+
+** Supporting actions

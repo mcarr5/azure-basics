@@ -1,0 +1,27 @@
+C:\Users\jwendl\Downloads\Homework005\Homework005\bin\Debug\Homework005.dacpac
+C:\Users\jwendl\Downloads\Homework005\Homework005\bin\Debug\Homework005.dll
+C:\Users\jwendl\Downloads\Homework005\Homework005\bin\Debug\Homework005.pdb
+C:\Users\jwendl\Downloads\Homework005\Homework005\obj\Debug\Model.xml
+C:\Users\jwendl\Downloads\Homework005\Homework005\obj\Debug\refactor.xml
+C:\Users\jwendl\Downloads\Homework005\Homework005\obj\Debug\postdeploy.sql
+C:\Users\jwendl\Downloads\Homework005\Homework005\obj\Debug\predeploy.sql
+C:\Users\jwendl\Downloads\Homework005\Homework005\obj\Debug\Homework005.dll
+C:\Users\jwendl\Downloads\Homework005\Homework005\obj\Debug\Homework005.pdb
+C:\Users\mattc\Documents\Magenic Masters\(Azure) Azure - The Introduction\Homework 005\Homework005\Homework005\Homework005\bin\Debug\Homework005.dacpac
+C:\Users\mattc\Documents\Magenic Masters\(Azure) Azure - The Introduction\Homework 005\Homework005\Homework005\Homework005\bin\Debug\Homework005.dll
+C:\Users\mattc\Documents\Magenic Masters\(Azure) Azure - The Introduction\Homework 005\Homework005\Homework005\Homework005\bin\Debug\Homework005.pdb
+C:\Users\mattc\Documents\Magenic Masters\(Azure) Azure - The Introduction\Homework 005\Homework005\Homework005\Homework005\obj\Debug\Homework005.dll
+C:\Users\mattc\Documents\Magenic Masters\(Azure) Azure - The Introduction\Homework 005\Homework005\Homework005\Homework005\obj\Debug\Homework005.pdb
+C:\Users\mattc\Documents\Magenic Masters\(Azure) Azure - The Introduction\Homework 005\Homework005\Homework005\Homework005\obj\Debug\Model.xml
+C:\Users\mattc\Documents\Magenic Masters\(Azure) Azure - The Introduction\Homework 005\Homework005\Homework005\Homework005\obj\Debug\refactor.xml
+C:\Users\mattc\Documents\Magenic Masters\(Azure) Azure - The Introduction\Homework 005\Homework005\Homework005\Homework005\obj\Debug\postdeploy.sql
+C:\Users\mattc\Documents\Magenic Masters\(Azure) Azure - The Introduction\Homework 005\Homework005\Homework005\Homework005\obj\Debug\predeploy.sql
+C:\Users\mattc\Source\Repos\azure-basics\Homework-005\Homework005\Homework005\bin\Debug\Homework005.dacpac
+C:\Users\mattc\Source\Repos\azure-basics\Homework-005\Homework005\Homework005\bin\Debug\Homework005.dll
+C:\Users\mattc\Source\Repos\azure-basics\Homework-005\Homework005\Homework005\bin\Debug\Homework005.pdb
+C:\Users\mattc\Source\Repos\azure-basics\Homework-005\Homework005\Homework005\obj\Debug\Model.xml
+C:\Users\mattc\Source\Repos\azure-basics\Homework-005\Homework005\Homework005\obj\Debug\refactor.xml
+C:\Users\mattc\Source\Repos\azure-basics\Homework-005\Homework005\Homework005\obj\Debug\postdeploy.sql
+C:\Users\mattc\Source\Repos\azure-basics\Homework-005\Homework005\Homework005\obj\Debug\predeploy.sql
+C:\Users\mattc\Source\Repos\azure-basics\Homework-005\Homework005\Homework005\obj\Debug\Homework005.dll
+C:\Users\mattc\Source\Repos\azure-basics\Homework-005\Homework005\Homework005\obj\Debug\Homework005.pdb
